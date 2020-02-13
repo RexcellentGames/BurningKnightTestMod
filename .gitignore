@@ -1,0 +1,10 @@
+
+*.idea/*
+.git
+*/bin/*
+*/obj/*
+packages/*
+TestMod/.idea*
+TestMod/TestMod/bin*
+TestMod/TestMod/obj*
+TestMod/packages*
